@@ -1,0 +1,10 @@
+site_name: Compressor System
+
+theme: readthedocs
+
+markdown_extensions:
+  - admonition
+
+nav:
+  - 홈: index.md
+  - CV: '05_cv/cv.md'
